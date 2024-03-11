@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/soical-react/static/css/main.a9daafa4.css",
+    "main.js": "/soical-react/static/js/main.69ecd300.js",
+    "index.html": "/soical-react/index.html",
+    "main.a9daafa4.css.map": "/soical-react/static/css/main.a9daafa4.css.map",
+    "main.69ecd300.js.map": "/soical-react/static/js/main.69ecd300.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9daafa4.css",
+    "static/js/main.69ecd300.js"
+  ]
+}
